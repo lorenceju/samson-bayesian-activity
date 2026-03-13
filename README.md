@@ -1,1 +1,1 @@
-# samson-bayesian-activity
+# Activities in Bayesian 
